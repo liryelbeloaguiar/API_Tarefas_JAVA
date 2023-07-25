@@ -14,4 +14,4 @@ Relembrando o Spring Boot...
 
 ## ✒️ Autores
 
-* Liryel Belo 😊
+* Liryel Belo 😊.
